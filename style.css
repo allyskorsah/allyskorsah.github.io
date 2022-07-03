@@ -27,6 +27,14 @@ i{
     color: #9e0356; 
 }
 
+a{
+    text-decoration: none;
+}
+
+ul{
+    margin-top: 50px;
+}
+
 section p:nth-of-type(1){
     margin-bottom: 20px;
     font-size: 3em;
@@ -47,6 +55,16 @@ section p:nth-of-type(4){
 legend{
     color: #c2056a;
     font-size: 50px;
+}
+
+@media(max-width:768px){
+    body{
+        background-size: 350px;
+    }
+
+    div{
+        margin: 50px;
+    }
 }
 
 /* .container{
