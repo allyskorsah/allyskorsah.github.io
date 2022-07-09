@@ -24,7 +24,8 @@ div{
 }
 
 i{
-    color: #9e0356; 
+    color: #9e0356;
+    margin-right: 10px; 
 }
 
 a{
@@ -56,6 +57,7 @@ legend{
     color: #c2056a;
     font-size: 50px;
 }
+
 
 @media(max-width:768px){
     body{
