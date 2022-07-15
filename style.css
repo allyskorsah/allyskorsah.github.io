@@ -21,7 +21,11 @@ div,
 footer{
     max-width: 1024px;
     margin: 100px auto;
+}
 
+hr{
+    background-color: #9e0356;
+    margin: 35px 0;
 }
 
 i{
@@ -35,6 +39,10 @@ a{
 
 ul{
     margin-top: 50px;
+}
+
+li{
+    margin: 15px 0;
 }
 
 section p:nth-of-type(1){
